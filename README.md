@@ -10,6 +10,6 @@
 
 🏔 In my free time, you can find me hiking or rock climbing in the nature with my dog.
 
-💪🏽  I am comfortable working with individuals and groups to provide them with the guidance they need to achieve their goals, and I am confident that my problem solving, teamwork, and time-management skills will serve me well in teams.
+💪🏽 I am comfortable working with individuals and groups to provide them with the guidance they need to achieve their goals, and I am confident that my problem solving, teamwork, and time-management skills will serve me well in teams.
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/tina-nemati/) | [Email](mailto:tinanemati.tina@gmail.com)
