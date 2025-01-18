@@ -4,9 +4,7 @@
 
 📚 I believe that I have a solid foundation in the core principles of CS with relevant coursework in Data Structure, Algorithm Design & Analysis, Artificial Intelligence, and Computer Networks. 
 
-🚀 I am specialized in: `Python`, `Java`, `C/C++`, `JavaScript`, `TypeScript` and `HTML/CSS`.
-
-💻 As for my future, I hope to one day work as an AI Software Engineer that impacts billions around the world.
+🚀 I am specialized in: `Python`, `Java`, `JavaScript`, `TypeScript` and `HTML/CSS`.
 
 ⚡ Fun fact about me, I have never watched any of the Star Wars sequel trilogy.
 
